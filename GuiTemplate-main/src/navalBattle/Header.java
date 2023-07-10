@@ -1,10 +1,14 @@
-package batallaNaval;
+package navalBattle;
 
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * This class is used for ...
 
-public class Header extends JLabel {
+ */
+public class Header extends JLabel
+{
     /**
      * Constructor of the Header class
      * @param title String that contains Header text
