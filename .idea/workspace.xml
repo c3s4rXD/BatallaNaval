@@ -5,13 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f526a9-4952-4eac-92d2-7023f4423e30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/navalBattle/ControlNavalBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BatallaNaval" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-destructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteBajaDestructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteBajaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteBajaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteDerechaDestructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteDerechaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteDerechaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteIzquierdaDestructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteIzquierdaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-parteIzquierdaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-portaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/1-submarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/10-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/10-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-destructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteBajaDestructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteBajaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteBajaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteDerechaDestructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteDerechaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteDerechaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteIzquierdaDestructor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteIzquierdaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-parteIzquierdaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-portaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/2-submarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-parteBajaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-parteBajaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-parteDerechaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-parteDerechaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-parteIzquierdaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-parteIzquierdaSubmarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-portaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/3-submarino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/4-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/4-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/4-parteBajaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/4-parteDerechaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/4-parteIzquierdaPortaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/4-portaAviones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/5-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/5-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/6-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/6-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/7-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/7-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/8-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/8-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/9-letras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/9-numeros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/agua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/fondo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/fragatas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/hundido.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuiTemplate-main/src/recursos/tocado.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuiTemplate-main/src/batallaNaval/Celdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/GuiTemplate-main/src/navalBattle/Celdas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuiTemplate-main/src/batallaNaval/GUIGridLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/GuiTemplate-main/src/navalBattle/GUIGridLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuiTemplate-main/src/batallaNaval/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/GuiTemplate-main/src/navalBattle/Header.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,14 +143,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Cesar/IdeaProjects/batallaNaval/GuiTemplate-main/src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cesar\IdeaProjects\batallaNaval\GuiTemplate-main\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
