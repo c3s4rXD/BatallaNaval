@@ -1,4 +1,4 @@
-package batallaNaval;
+package navalBattle;
 
 import javax.swing.*;
 import java.awt.*;
